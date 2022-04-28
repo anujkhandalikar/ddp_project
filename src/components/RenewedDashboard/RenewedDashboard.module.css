@@ -1,0 +1,203 @@
+.root {
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  position: relative;
+  background-color: #e5eaff;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.visualAnalytics {
+  color: #000;
+  font-size: 71px;
+  line-height: 41.5035px;
+  font-weight: bold;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 267px;
+  top: 65px;
+  white-space: nowrap;
+}
+.rectangle11 {
+  width: 9px;
+  height: 46px;
+  position: absolute;
+  left: -2px;
+  top: 374px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.group38 {
+  width: 1124px;
+  height: 194px;
+  align-items: flex-start;
+  position: absolute;
+  left: 685px;
+  top: 183px;
+}
+.rectangle4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 15.3119px;
+  background-color: #fff;
+}
+.overallStatistics {
+  color: #000;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 37.53%;
+  right: 37.1703%;
+  top: 7.7381%;
+  bottom: 75%;
+}
+.variableGroup {
+  width: 334px;
+  height: 703.1579px;
+  align-items: flex-start;
+  position: absolute;
+  left: 277px;
+  top: 219px;
+}
+.variableGroup_2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -5.1198%;
+  bottom: -11.9237%;
+  overflow: visible;
+}
+.frame26 {
+  padding: 10.0451px;
+  position: absolute;
+  left: 60.5263%;
+  right: 15.0376%;
+  top: 7.847%;
+  bottom: 80.5458%;
+  border-radius: 10.0451px;
+  background-color: #ccd4ff;
+}
+.analyticsOutline {
+  width: 61.5263px;
+  height: 61.5263px;
+  align-items: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.line27 {
+  transform: rotate(90deg);
+  transform-origin: bottom left;
+  width: 52.109px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  position: absolute;
+  left: -0.0001px;
+  top: 5.0588px;
+  outline: solid 0.6097px #6674bb;
+}
+.line28 {
+  transform: rotate(0deg);
+  transform-origin: bottom left;
+  width: 55.2481px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  position: absolute;
+  left: 1.2555px;
+  top: 57.1316px;
+  outline: solid 0.6278px #6674bb;
+}
+.group26 {
+  position: absolute;
+  left: 10.2035%;
+  right: 16.455%;
+  top: 36.7347%;
+  bottom: 26.5944%;
+  overflow: visible;
+}
+.chartType {
+  color: #000;
+  font-size: 21px;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.7744%;
+  right: 56.391%;
+  top: 11.777%;
+  bottom: 84.4758%;
+}
+.location {
+  color: #000;
+  font-size: 21px;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.982%;
+  right: 52.994%;
+  top: 26.7365%;
+  bottom: 69.4237%;
+}
+.xAxis {
+  color: #000;
+  font-size: 21px;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.982%;
+  right: 52.994%;
+  top: 63.5704%;
+  bottom: 32.732%;
+}
+.accidentSeverity {
+  color: #000;
+  font-size: 21px;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.982%;
+  right: 0;
+  top: 36.5494%;
+  bottom: 51.9311%;
+}
+.timeFrame {
+  color: #000;
+  font-size: 21px;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.982%;
+  right: 47.6048%;
+  top: 46.3623%;
+  bottom: 49.9401%;
+}
+.yAxis {
+  color: #000;
+  font-size: 21px;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.982%;
+  right: 52.994%;
+  top: 73.241%;
+  bottom: 23.0614%;
+}
+.variables {
+  color: #000;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 28.5714%;
+  right: 29.213%;
+  top: -1.4275%;
+  bottom: 96.1655%;
+  white-space: nowrap;
+}

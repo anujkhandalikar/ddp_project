@@ -1,0 +1,544 @@
+.root {
+  width: 1124px;
+  height: 866px;
+  align-items: flex-start;
+  position: absolute;
+  left: 685px;
+  top: 401px;
+}
+.group19 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 30.0874%;
+  overflow: visible;
+}
+.chart {
+  align-items: flex-start;
+  position: absolute;
+  left: 5.1559%;
+  right: 8.6331%;
+  top: 3.4956%;
+  bottom: 0;
+  overflow: hidden;
+}
+.chart_2 {
+  width: 758.0909px;
+  height: 256.7727px;
+  align-items: flex-start;
+  position: absolute;
+  left: 73.3635px;
+  top: 177.2954px;
+  overflow: hidden;
+}
+.chart1 {
+  width: 770.3182px;
+  height: 160.9131px;
+  position: absolute;
+  left: 0;
+  top: 42.7955px;
+  overflow: visible;
+}
+.legend {
+  color: #000;
+  font-size: 16px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 54px;
+  height: 22px;
+  position: absolute;
+  left: 606px;
+  top: 41px;
+}
+.totalAccidents {
+  color: #000;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 68px;
+  height: 22px;
+  position: absolute;
+  left: 651px;
+  top: 72px;
+}
+.rectangle12 {
+  width: 33px;
+  height: 10px;
+  position: absolute;
+  left: 608px;
+  top: 75px;
+  background-color: #57d9ad;
+}
+._10K {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 52.6841%;
+  bottom: 46.1923%;
+}
+._10K_2 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 47.8152%;
+  bottom: 51.0612%;
+}
+._10K_3 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 42.9463%;
+  bottom: 55.9301%;
+}
+._10K_4 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 38.0774%;
+  bottom: 60.799%;
+}
+._10K_5 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 33.2085%;
+  bottom: 65.6679%;
+}
+._10K_6 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 28.3396%;
+  bottom: 70.5368%;
+}
+._10K_7 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 23.4707%;
+  bottom: 75.4057%;
+}
+._10K_8 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 18.6017%;
+  bottom: 80.2747%;
+}
+._10K_9 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 13.7328%;
+  bottom: 85.1436%;
+}
+._10K_10 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.271%;
+  right: 86.4508%;
+  top: 8.8639%;
+  bottom: 90.0125%;
+}
+.ellipse9 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 53.0587%;
+  bottom: 46.1923%;
+  overflow: visible;
+}
+.ellipse22 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 48.1898%;
+  bottom: 51.0612%;
+  overflow: visible;
+}
+.ellipse23 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 43.3209%;
+  bottom: 55.9301%;
+  overflow: visible;
+}
+.ellipse24 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 38.4519%;
+  bottom: 60.799%;
+  overflow: visible;
+}
+.ellipse25 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 33.583%;
+  bottom: 65.6679%;
+  overflow: visible;
+}
+.ellipse26 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 28.7141%;
+  bottom: 70.5368%;
+  overflow: visible;
+}
+.ellipse27 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 23.8452%;
+  bottom: 75.4057%;
+  overflow: visible;
+}
+.ellipse28 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 18.9763%;
+  bottom: 80.2747%;
+  overflow: visible;
+}
+.ellipse29 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 14.1074%;
+  bottom: 85.1436%;
+  overflow: visible;
+}
+.ellipse30 {
+  position: absolute;
+  left: 13.6691%;
+  right: 85.6115%;
+  top: 9.2385%;
+  bottom: 90.0125%;
+  overflow: visible;
+}
+.visualisation {
+  color: #000;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.048%;
+  right: 42.4253%;
+  top: 2.4969%;
+  bottom: 93.2306%;
+  white-space: nowrap;
+}
+.line29 {
+  transform: rotate(90deg);
+  transform-origin: bottom left;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  left: 13.9089%;
+  right: 42.9991%;
+  top: 5.1373%;
+  bottom: 94.6317%;
+  outline: solid 1px #4b4b4b;
+}
+.line30 {
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  left: 10.1918%;
+  right: 8.753%;
+  top: 57.6966%;
+  bottom: 42.0724%;
+  outline: solid 1px #4b4b4b;
+}
+.ellipse9_2 {
+  position: absolute;
+  left: 18.705%;
+  right: 80.4556%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse10 {
+  position: absolute;
+  left: 24.3405%;
+  right: 74.8201%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse11 {
+  position: absolute;
+  left: 29.976%;
+  right: 69.1847%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse12 {
+  position: absolute;
+  left: 35.6115%;
+  right: 63.5492%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse13 {
+  position: absolute;
+  left: 41.247%;
+  right: 57.9137%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse14 {
+  position: absolute;
+  left: 46.8825%;
+  right: 52.2782%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse15 {
+  position: absolute;
+  left: 52.518%;
+  right: 46.6427%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse16 {
+  position: absolute;
+  left: 58.1535%;
+  right: 41.0072%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse17 {
+  position: absolute;
+  left: 63.789%;
+  right: 35.3717%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse18 {
+  position: absolute;
+  left: 69.4245%;
+  right: 29.7362%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse19 {
+  position: absolute;
+  left: 75.0599%;
+  right: 24.1007%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse20 {
+  position: absolute;
+  left: 80.6954%;
+  right: 18.4652%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+.ellipse21 {
+  position: absolute;
+  left: 86.3309%;
+  right: 12.8297%;
+  top: 57.3034%;
+  bottom: 41.8227%;
+  overflow: visible;
+}
+._1991 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17.9856%;
+  right: 79.7362%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_2 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 23.6211%;
+  right: 74.1007%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_3 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.2566%;
+  right: 68.4652%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_4 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 34.8921%;
+  right: 62.8297%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_5 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.5276%;
+  right: 57.1942%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_6 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 46.1631%;
+  right: 51.5588%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_7 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 51.7986%;
+  right: 45.9233%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_8 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 57.4341%;
+  right: 40.2878%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_9 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 63.0695%;
+  right: 34.6523%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_10 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 68.705%;
+  right: 29.0168%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_11 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 74.3405%;
+  right: 23.3813%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_12 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 79.976%;
+  right: 17.7458%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}
+._1991_13 {
+  color: #585858;
+  font-size: 10px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 85.6115%;
+  right: 12.1103%;
+  top: 58.9263%;
+  bottom: 39.9501%;
+}

@@ -1,0 +1,43 @@
+.root {
+  width: 193px;
+  height: 1080px;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #6674bb;
+}
+.frame2 {
+  align-items: flex-start;
+  position: absolute;
+  left: 16.5803%;
+  right: 24.3523%;
+  top: 16.6667%;
+  bottom: 80.8333%;
+}
+.upgradeIllustration {
+  position: absolute;
+  left: 10.3627%;
+  right: 10.3627%;
+  top: 74.4792%;
+  bottom: 9.5833%;
+  border-radius: 100px;
+}
+.logo {
+  color: #fff;
+  font-size: 19px;
+  line-height: 19px;
+  font-family: Baloo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 28px;
+  top: 50px;
+  white-space: nowrap;
+}

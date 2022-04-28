@@ -1,0 +1,22 @@
+.root {
+  align-items: flex-start;
+  gap: 24px;
+  position: absolute;
+  left: 16.5803%;
+  right: 19.171%;
+  top: 40.1389%;
+  bottom: 57.6389%;
+}
+.stats {
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.dashboard {
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  white-space: nowrap;
+}

@@ -1,0 +1,42 @@
+.root {
+  align-items: flex-start;
+  position: absolute;
+  left: 83.7838%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.card8 {
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 9.8196px;
+  background-color: #ccd4ff;
+  overflow: hidden;
+}
+._23K {
+  color: #6674bb;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Helvetica, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 74px;
+  height: 29px;
+  position: absolute;
+  left: 33px;
+  top: 53px;
+}
+.info1 {
+  color: #000;
+  font-size: 16px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 74px;
+  height: 29px;
+  position: absolute;
+  left: 31px;
+  top: 15px;
+}

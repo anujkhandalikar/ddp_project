@@ -1,0 +1,39 @@
+.root {
+  align-items: flex-start;
+  position: absolute;
+  left: 52.2556%;
+  right: 7.1429%;
+  top: 25.8737%;
+  bottom: 68.5947%;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 2.5113px;
+  background-color: #ccd4ff;
+}
+.india {
+  color: #6674bb;
+  font-size: 13.7742px;
+  line-height: 39.085px;
+  font-family: Cabin, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 11.7242%;
+  right: 10.3448%;
+  top: 0;
+  bottom: 9.6774%;
+}
+.polygon5 {
+  position: absolute;
+  left: 86.2072%;
+  right: 6.2066%;
+  top: 32.2582%;
+  bottom: 40.2418%;
+  overflow: visible;
+}
